@@ -24,9 +24,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 morse-decoder <a name="about-project"></a>
+# 📖 Ruby-Enums <a name="about-project"></a>
 
-**[morse-decoder]** is a program that allows the user to input morse code and convert the message into English words.
+**[Ruby-Enums]** is...
 
 ## 🛠 Built With <a name="built-with"></a>
 
