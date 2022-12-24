@@ -24,11 +24,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 morse-decoder <a name="about-project"></a>
+# 📖 Ruby-Enums <a name="about-project"></a>
 
-**[morse-decoder]** is a program that allows the user to input morse code and convert the message into English words.
+**[Ruby-Enums]** is a console application that demonstrates enumerables, modules and classes.
 
 ## 🛠 Built With <a name="built-with"></a>
+- Ruby
+- Linters
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -44,7 +46,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Clean code using rubocop linters]**
-- **[Morse decoder functionality]**
+- **[Enumerable methods impllementation]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
