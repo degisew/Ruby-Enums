@@ -18,6 +18,6 @@ module MyEnumerable
     each do |i|
       res.push i if yield i
     end
-    return res
+    res
   end
 end
