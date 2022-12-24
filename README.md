@@ -26,9 +26,11 @@
 
 # 📖 Ruby-Enums <a name="about-project"></a>
 
-**[Ruby-Enums]** is...
+**[Ruby-Enums]** is a console application that demonstrates enumerables, modules and classes.
 
 ## 🛠 Built With <a name="built-with"></a>
+- Ruby
+- Linters
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -44,7 +46,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Clean code using rubocop linters]**
-- **[Morse decoder functionality]**
+- **[Enumerable methods impllementation]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
