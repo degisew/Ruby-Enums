@@ -29,6 +29,7 @@
 **[Ruby-Enums]** is a console application that demonstrates enumerables, modules and classes.
 
 ## 🛠 Built With <a name="built-with"></a>
+
 - Ruby
 - Linters
 
